@@ -1,0 +1,17 @@
+.player{
+	margin-bottom: 40px;
+	width: 100px;
+	resize: none;
+	text-align: center;
+}
+
+.desc{
+	width: 800px;
+	resize: none;
+	height: 200px;
+}
+
+.btns{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
